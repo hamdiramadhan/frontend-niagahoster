@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'montserrat';
+    src: url('Montserrat-Reguler.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.div-tag-top {
+    background-color: #04a1f3;
+    color: white;
+    padding: 8px 10px 12px 10px;
+    margin-top: -10px;
+    font-size: 12pt;
+    clip-path: polygon(100% 0, 100% 100%, 50% 80%, 0 100%, 0 0);
+}
+
+.b-1 {
+    font-weight: bold;
+    font-size: 29pt;
+    color: #4b4c4c;
+}
+
+.b-2 { 
+    font-size: 29pt;
+    color: #4b4c4c;
+    padding-top: 20px;
+    line-height: 40px;
+    font-family: 'montserrat', Arial, sans-serif;
+}
+
+.logo {
+    height: 40px;
+}
